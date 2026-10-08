@@ -1,0 +1,6 @@
+{
+  "name": "CubaWatt - Solar & Energy Solutions for Cuba",
+  "description": "Bilingual solar and battery energy solutions platform powering homes and businesses across Cuba from anywhere in the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
